@@ -6,3 +6,4 @@ BMO tiene un amigo que se llama Neptor. Es un microondas.
 A su vez, Neptor tiene una gran amistad con el rey helado. Solo que el rey helado es malo. 
 El rey helado vive con un pinguino que se llama gunter.
 Este pinguino es muy exraño. un día trató de destruir al mundo. 
+Este pinguino es muy bueno y por lo tanto odia al rey helado. 
